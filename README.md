@@ -1,1 +1,1 @@
-responsive-website.github.io
+Mobil uyumlu responsive web site tasarımı.
